@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"confi",
+				"confirmCase"
+			],
+			[
+				"co",
+				"confirmed"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"article",
+				"articleTitle"
+			],
+			[
+				"f",
+				"foundArticle"
+			],
+			[
+				"a",
+				"articles"
+			],
+			[
+				"check",
+				"checkItemId"
+			],
+			[
+				"chc",
+				"checkItemId"
+			],
+			[
+				"fruits",
+				"fruitsDB"
+			],
+			[
+				"fruit",
+				"fruitSchema"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"cona",
+				"contactContent"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"city",
+				"cityInput"
+			],
+			[
+				"D",
+				"description"
+			],
+			[
+				"weather",
+				"weatherData"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"block",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"nav-",
+				"nav-item"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"hide",
+				"hide"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"onmouse",
+				"onmouseleave\tAttr"
+			],
+			[
+				"ge",
+				"getelementbytagname"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"width",
+				"min-width\tproperty"
+			],
+			[
+				"colr",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/compose.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/wiki-api/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/public/css/styles.css",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/views/covid.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/views/example.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/WeatherProject/index.html",
+		"/C/Users/Anish/Desktop/PROJECTS/WeatherProject/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/bitcoin-tricker/index.js",
+		"/C/Users/Anish/Desktop/PROJECTS/fruitproject/index.html",
+		"/C/Users/Anish/Desktop/covid19 theme/styles.css",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/covid.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/covid19/index.ejs.html",
+		"/C/Users/Anish/Desktop/PROJECTS/fruitproject/app.js",
+		"/C/Users/Anish/Desktop/greenland/index",
+		"/E/Blog-With-Database-final/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/home.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/footer.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/header.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/post.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/list.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/.gitignore",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/Procfile",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/views/list.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/package.json",
+		"/C/Users/Anish/Desktop/html/todolist-v2-starting-files/todolist-v2-starting-files/app.js",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/views/footer.ejs",
+		"/C/Users/Anish/Desktop/todolist-v2-starting-files/todolist-v2-starting-files/views/list.ejs",
+		"/C/Users/Anish/Desktop/todolist-v2-starting-files/todolist-v2-starting-files/app.js",
+		"/C/Users/Anish/Desktop/todolist-v2-starting-files/todolist-v2-starting-files/package.json",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist-v2-starting-files/package.json",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/package-lock.json",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/views/about.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/public/css/styles.css",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist-v2-starting-files/app.js",
+		"/C/Users/Anish/Desktop/html/todolist-v2-starting-files/views/list.ejs",
+		"/C/Users/Anish/Desktop/html/todolist-v2-starting-files/package.json",
+		"/C/Users/Anish/Desktop/new/anish html.html",
+		"/C/Users/Anish/Desktop/html/todolist-v2-starting-files/views/header.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/todolist/index.html",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/partials/footer.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/partials/header.ejs",
+		"/C/Users/Anish/Desktop/PROJECTS/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/public/css/styles.css",
+		"/C/Users/Anish/.bash_profile",
+		"/C/Users/Anish/Desktop/voopik-backend-challenge-1/voopik-backend-challenge-1/data/cities_canada-usa.tsv",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/partials/header.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/home.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/compose.ejs",
+		"/C/Users/Anish/Desktop/todolist/app.js",
+		"/C/Users/Anish/Desktop/todolist/views/list.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/app.js",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/header.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/contact.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/about.ejs",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/views/footer.ejs",
+		"/C/Users/Anish/Desktop/todolist/index.html",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/public/css/styles.css",
+		"/C/Users/Anish/Desktop/EJS Challenge Starting Files/EJS Challenge Starting Files/ejs-challenge/package.json",
+		"/C/Users/Anish/Desktop/todolist/css/styles.css",
+		"/C/Users/Anish/Desktop/todolist/css/style.css",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/font.css",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/font.html",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/Procfile",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/style.css",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/failure.html",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/success.html",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/signup.html",
+		"/C/Users/Anish/Desktop/WeatherProject/app.js",
+		"/C/Users/Anish/Desktop/bitcoin-tricker/index.html",
+		"/C/Users/Anish/Desktop/bitcoin-tricker/index.js",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/app.js",
+		"/C/Users/Anish/Desktop/todolist-v1/app.js",
+		"/C/Users/Anish/Desktop/todolist-v1/index.html",
+		"/C/Users/Anish/Desktop/todolist-v1/views/list.ejs",
+		"/C/Users/Anish/Desktop/Newsletter-Signup/package.json",
+		"/C/Users/Anish/Desktop/bitcoin-tricker/package.json",
+		"/C/Users/Anish/Desktop/WeatherProject/index.html",
+		"/C/Users/Anish/Desktop/calculator/index.html",
+		"/C/Users/Anish/Desktop/calculator/package.json",
+		"/C/Users/Anish/Desktop/calculator/calculator.js",
+		"/C/Users/Anish/Desktop/calculator/bmiCalculator.html",
+		"/C/Users/Anish/Desktop/bitcoin-tricker/package-lock.json",
+		"/C/Users/Anish/Desktop/calculator/server.js",
+		"/D/html/basic layout/sharp.htm",
+		"/C/Users/Anish/Desktop/my-express-server/package.json",
+		"/C/Program Files/nodejs/samples/manish.js",
+		"/D/html/file1.txt",
+		"/D/html/file2.txt",
+		"/C/Users/Anish/Desktop/my-express-server/server.js",
+		"/C/Users/Anish/Desktop/my-express-server/manish.js",
+		"/D/html/basic layout/stopwatch.js",
+		"/D/html/basic layout/stopwatch.htm",
+		"/D/html/basic layout/stopwatch.css",
+		"/D/pricing.htm",
+		"/D/pricing.css",
+		"/D/html/form.htm",
+		"/D/form.css",
+		"/D/pricing.js",
+		"/D/html/medsicon.css",
+		"/D/html/basic layout/spot.css",
+		"/D/html/basic layout/new.css",
+		"/D/html/basic layout/new.htm",
+		"/D/html/basic layout/spot.htm",
+		"/D/html/calculator.css",
+		"/D/html/medsicon.htm",
+		"/D/html/bootstrap.html",
+		"/D/html/layout.htm",
+		"/D/html/calculator.htm",
+		"/D/html/draw.js",
+		"/D/html/snake.htm",
+		"/D/html/spot.htm",
+		"/D/html/spot.css",
+		"/D/html/layout.css",
+		"/D/html/s.c",
+		"/D/html/kuch.htm",
+		"/D/html/example.htm",
+		"/D/html/example.html",
+		"/D/html/date.htm",
+		"/D/html/hawkings.htm",
+		"/D/html/facebook.htm",
+		"/D/html/face.css",
+		"/D/html/facetime.htm",
+		"/D/html/console.css",
+		"/D/html/stephen.htm",
+		"/D/html/hawkings.css",
+		"/D/html/javascript.htm"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
